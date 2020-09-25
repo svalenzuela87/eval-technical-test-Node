@@ -1,0 +1,22 @@
+{
+  "name": "Consigna2-Node",
+  "version": "1.0.0",
+  "description": "Proyecto Challenge EXO",
+  "main": "broma.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node broma.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompts": "^2.1.0",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.2.2",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.17.3"
+  }
+}
